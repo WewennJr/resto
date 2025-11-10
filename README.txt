@@ -1,0 +1,1 @@
+Normalement le site fonctionne bien, le seul problème est que la navbar n'est pas responsive.
